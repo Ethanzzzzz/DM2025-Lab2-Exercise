@@ -1,0 +1,24 @@
+{
+    "title": "Types of Attributes",
+    "video_segment": "80:00 - 83:59",
+    "content_flow": [
+        {
+            "content_type": "slide_description",
+            "text": "The slide is titled \"What is Data?\" and has a bullet point that says \"Collection of data objects and their attributes.\" Below this, there is a table with columns for Course ID, Course Name, Instructor, and Time. The table contains sample data for database courses. The slide also mentions that an attribute is a property or characteristic of an object, and that an attribute is also known as variable, field, characteristic, or feature. An object is also known as record, point, case, sample, entity, or tuple. The text \"most of data comes from database\" is also present."
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "Okay, so what is data? When you mentioned about data, you need to know most of data comes from database. Currently, database still utilize relational database. When we told relational database is because they were having table. We call them relation. In the table, we have attribute. Each column of them are attribute. Okay? Each row, each row we call them transaction or record, depends on how you try to do that. Transaction is more for database, then saying that how many record tuple you can relate it to. You have the tuple or you can talking about point. So every row right here is related to record.",
+            "timestamp": "80:00"
+        },
+        {
+            "content_type": "slide_description",
+            "text": "The slide is titled \"Types of Attributes\" and has a bullet point that says \"There are different types of attributes.\" A table is presented with columns for Categorical, Nominal, Ordinal, Interval, and Ratio. Checkmarks indicate which operations are valid for each attribute type. For example, Categorical allows for equality comparison, Nominal allows for equality comparison, Ordinal allows for rank order and equality comparison, Interval allows for equality, interval, and rank order comparison, and Ratio allows for all operations including true zero."
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "And then right here, we want to talking about type of attribute. Okay? And then right here, we want to talking about type of attribute. Because later on, then you want I will assign you some, um, accurate class exercise. You need to work in with it. But then first, we try to tell you that the attribute, we can partition them to different type. By the way, the type right here is not data type. In computer science, if you, um, during data structure, you will have data type, but it is not data type. We are talking about different. So we have four different type: Nominal, Ordinal, Interval, and the Ratio. And the ratio. So then you can see that one is from minus to plus. So for each one of them, so nominal data, you can only do comparison equal or not equal. We call them categorical operation. That only working on categorical data. Ordinal data, you can do not only equal or not equal, you can also compare the order. Interval data, they will have some interval. This meaning is important. So then they can have equal space. That is called interval data. Ratio data, you can do equal and then you can also do proportional. So that is let us try to go for. And then right here, you can see there's a very tiny word called true zero ratio data. You do have something called zero. That zero means zero, nothing. Okay? You need to know true zero means not just because they have a value called zero. That zero also mean nothing. Okay? If your zero do not mean nothing, then it is not true zero. We will give you some example later.",
+            "timestamp": "80:50"
+        }
+    ]
+}
